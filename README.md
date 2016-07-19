@@ -1,3 +1,3 @@
 # gedwest.github.io
-Portfolio site
-Jekyll files for gerardwesthoff.me
+
+Jekyll files for www.gerardwesthoff.me
